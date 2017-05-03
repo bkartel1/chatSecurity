@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "772117363752",
+    "project_id": "engaged-truth-138423"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772117363752:android:70ca1b4f38e0009b",
+        "android_client_info": {
+          "package_name": "com.example.dado.chatgcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixUeKmpkRjYbiy7r8vCzFQ4Lrs0sgQkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
